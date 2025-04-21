@@ -1,4 +1,4 @@
-# About me. _LAYER:01_
+# About me. _LAYER:13_
 
 I'm a student passionate about programming, electronics, and AI. I learn best visually and prefer clarity and minimalism in everything I build. My main focus is on logic-driven projects, both in software and hardware.
 
