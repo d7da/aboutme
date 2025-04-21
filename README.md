@@ -23,6 +23,7 @@ I'm a student passionate about programming, electronics, and AI. I learn best vi
 
 ## Goals
 
+- Currently went back to python and gaining skills back
 - Improve in Python and C++
 - Build a synthetic consciousness engine
 - Develop cyberhacking skills ethically
