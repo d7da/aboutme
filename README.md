@@ -7,7 +7,6 @@ I'm a student passionate about programming, electronics, and AI. I learn best vi
 ## Skills
 
 - **Languages:** C++ (Arduino), Python (basic)
-- **Tools:** Arduino IDE, VSCode, Unity (2D)
 - **Interests:** AI cognition, chatbot systems, ethical cyberhacking, and programming
 
 ---
