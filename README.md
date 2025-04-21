@@ -16,7 +16,7 @@ I'm a student passionate about programming, electronics, and AI. I learn best vi
 
 - Custom chatbot using DialoGPT with token-efficient design
 - Locally ran chatbot with emotions and deep thinking
-- ...
+- Finger tracking thru camera
 - ...
 
 ---
