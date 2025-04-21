@@ -1,4 +1,4 @@
-list = ["vape", "tech", "fruits", "pendrive"]
+list = ["mouse", "tech", "fruits", "pendrive"]
 
 
 
