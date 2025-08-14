@@ -13,10 +13,10 @@ I'm a student passionate about programming, electronics, and AI. I learn best vi
 
 ## Projects
 
-- Custom chatbot using DialoGPT with token-efficient design
-- Locally ran chatbot with emotions and deep thinking
+- Locally ran chatbot
 - Finger tracking thru camera
 - ...
+- spying on you
 
 ---
 
@@ -25,7 +25,7 @@ I'm a student passionate about programming, electronics, and AI. I learn best vi
 - Currently went back to python and gaining skills back
 - Improve in Python and C++
 - Build a synthetic consciousness engine
-- Develop cyberhacking skills ethically
+- Develop cyberhacking skills *ethically*
 - Maintain a focused, balanced routine
 
 ---
