@@ -6,26 +6,30 @@ I'm a student passionate about programming, electronics, and AI. I learn best vi
 
 ## Skills
 
-- **Languages:** C++ (Arduino), Python (basic)
-- **Interests:** AI cognition, chatbot systems, ethical cyberhacking, and programming
+- **Languages:** Python (basic)
+- **Interests:** ethical cyberhacking, programming
+<img src="https://tryhackme-badges.s3.amazonaws.com/ixxc.png" alt="TryHackMe Badge" width="300" />
+
 
 ---
 
 ## Projects
 
-- Locally ran chatbot
-- Finger tracking thru camera
+- Email spammer
+- Network sniffer
+- File encryptor
+- Client & Server communication
 - ...
-- spying on you
 
 ---
 
 ## Goals
 
 - Currently went back to python and gaining skills back
-- Improve in Python and C++
+- Improve in Python and learn C++
 - Build a synthetic consciousness engine
 - Develop cyberhacking skills *ethically*
 - Maintain a focused, balanced routine
 
 ---
+
