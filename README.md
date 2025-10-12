@@ -2,14 +2,14 @@
 
 I'm a student passionate about programming, electronics, and AI. I learn best visually and prefer clarity and minimalism in everything I build. My main focus is on logic-driven projects, both in software and hardware.
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ixxc.png" alt="Your Image Badge" />
+
 ---
 
 ## Skills
 
 - **Languages:** Python (basic)
 - **Interests:** ethical cyberhacking, programming
-<img src="https://tryhackme-badges.s3.amazonaws.com/ixxc.png" alt="TryHackMe Badge" width="300" />
-
 
 ---
 
