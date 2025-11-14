@@ -1,8 +1,8 @@
-# About me. _LAYER:13_
+# About me.
 
-I'm a student passionate about programming, electronics, and AI. I learn best visually and prefer clarity and minimalism in everything I build. My main focus is on logic-driven projects, both in software and hardware.
+I'm a student passionate about programming, electronics, and ethical hacking. I learn best visually and prefer clarity and minimalism in everything I build. My main focus is on logic-driven projects, both in software and hardware.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ixxc.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/ixxc.png"/>
 
 ---
 
@@ -27,8 +27,7 @@ I'm a student passionate about programming, electronics, and AI. I learn best vi
 
 - Currently went back to python and gaining skills back
 - Improve in Python and learn C++
-- Build a synthetic consciousness engine
-- Develop cyberhacking skills *ethically*
+- Build pentesting tools
 - Maintain a focused, balanced routine
 
 ---
