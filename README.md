@@ -8,27 +8,26 @@ I'm a student passionate about programming, electronics, and ethical hacking. I 
 
 ## Skills
 
-- **Languages:** Python (basic)
+- **Languages:** Python (advanced), C++ (beginner)
 - **Interests:** ethical cyberhacking, programming
 
 ---
 
-## Projects
+## Planned Projects (C++)
 
-- Email spammer
+- Encryptor/Decryptor
 - Network sniffer
-- File encryptor
-- Client & Server communication
-- ...
-
+- Vulnerable app to pentest + Exploit
+- NetCat "lite"
+- Keylogger
+  
 ---
 
 ## Goals
 
-- Currently went back to python and gaining skills back
-- Improve in Python and learn C++
-- Build pentesting tools
-- Maintain a focused, balanced routine
+- Learn fundamentals in C++ and writing exploits
+- Build *almost* famous pentesting tools
+- Gain stars :)
 
 ---
 
